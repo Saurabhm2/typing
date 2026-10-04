@@ -1,0 +1,6 @@
+{
+  "name": "Marathi Remington Typing Test",
+  "description": "Online Marathi Remington typing test and speed practice platform with interactive Remington Gail layout, custom passages, GCC-TBC and MPSC exam modes, real-time WPM, accuracy, and error analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
